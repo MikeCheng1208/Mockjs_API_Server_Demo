@@ -13,12 +13,12 @@ express-mockjs : [https://github.com/52cik/express-mockjs](https://github.com/52
 ```
 npm i 
 ```
-2. 開啟一個命令提示視窗，啟動 API Server
+2. 開啟一個命令提示視窗，啟動 API Server
 >啟動之後開啟 http://localhost:3001/ 就可以看到自己寫的api列表
 ```
 node api_server.js
 ```
-3. webpack.config 裡的 devServer 設定要新增 proxy
+3. webpack.config 裡的devServer 設定要新增 proxy
 >proxy 可以幫助devServer啟動跨網域存取API方便開發
 ```
 proxy: {
