@@ -26,7 +26,7 @@ proxy: {
         target: 'http://localhost:3001/',
         changeOrigin: true,
     }
-},
+}
 ```
 4. 接著再開啟一個新的命令提示視窗啟動 webpack dev Server
 >開啟 http://localhost:3000/ 可以看到自己的頁面
