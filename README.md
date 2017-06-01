@@ -4,7 +4,7 @@
 mockjs官網 ： [http://mockjs.com/](http://mockjs.com/)
 <br/>
 express-mockjs : [https://github.com/52cik/express-mockjs](https://github.com/52cik/express-mockjs)
-* express-mockjs 是建構在node express 上的 mockjs
+* express-mockjs 是建構在node express 上的 mockjs
 <br/>
 
 ----
