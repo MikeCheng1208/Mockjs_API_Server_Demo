@@ -37,7 +37,7 @@ npm run dev
 >更多mockjs格式可以參考官網doc http://mockjs.com/examples.html
 ```json
 /**
- * 測試用讀取的api抬頭
+ * 測試用讀取的api抬頭
  *
  * @url /admin
  *
