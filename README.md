@@ -14,7 +14,7 @@ express-mockjs : [https://github.com/52cik/express-mockjs](https://github.com/52
 npm i 
 ```
 2. 開啟一個命令提示視窗，啟動 API Server
->啟動之後開啟 http://localhost:3001/ 就可以看到自己寫的api列表
+>啟動之後開啟 http://localhost:3001/ 就可以看到自己寫的api列表
 ```
 node api_server.js
 ```
@@ -57,7 +57,7 @@ npm run dev
     }
 }
 ```
-6 然後只要ajax剛剛設定好的api就好
+6 然後只要要ajax剛剛設定好的api就好
 >這邊我是用jquery的ajax來做，要用axios或其他的工具也是可以的
 ```javascript
 $.ajax({
